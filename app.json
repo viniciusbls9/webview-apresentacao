@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "apresentacao",
-    "slug": "apresentacao",
+    "name": "Apresentacao",
+    "slug": "Apresentacao",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.beegrayapresentacao"
     },
     "web": {
       "favicon": "./assets/favicon.png"
